@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="M2014_RENJIE" version="4">
+  <OBJECT>
+    <ID name="M2014_RENJIE" mc="Standard.PropertyContainer" uid="dbdc8a13-18b0-47db-bb8e-7fd0add249f6"/>
+    <PID name="M2014_RENJIE" mc="Standard.AnalystProject" uid="98f62b9a-d21f-4cfb-9530-f0c602ba1363"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[M2014_RENJIE]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

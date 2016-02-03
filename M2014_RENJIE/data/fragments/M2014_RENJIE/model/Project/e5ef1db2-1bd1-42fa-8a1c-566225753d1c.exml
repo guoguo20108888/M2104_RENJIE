@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="M2014_RENJIE" version="4">
+  <OBJECT>
+    <ID name="M2014_RENJIE" mc="Standard.Project" uid="e5ef1db2-1bd1-42fa-8a1c-566225753d1c"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[M2014_RENJIE]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DiagramRoot">
+        <COMPID name="M2014_RENJIE" mc="Standard.DiagramSet" uid="565c8b73-2a6b-4c27-b7de-4a4abba5ee78"/>
+      </COMP>
+      <COMP relation="Model">
+        <COMPID name="m2014_renjie" mc="Standard.Package" uid="5755aedb-4b18-4766-ad78-cecf0947b18e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
